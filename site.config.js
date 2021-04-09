@@ -12,9 +12,9 @@ module.exports = {
   author: 'Amit Chaudhari',
 
   // open graph metadata (optional)
-  description: 'Testing this out!!!',
+  description: 'Develope\'s Log, The D-Log. I am trying to document my problems and how i tackle them, most are stupid, some are interestingly stupid.',
   socialImageTitle: 'Amit Chaudhari',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageSubtitle: 'A developer in making? made? no?👋',
 
   // social usernames (optional)
   twitter: 'amyth_dev',

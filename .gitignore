@@ -39,7 +39,6 @@ Thumbs.db
 dist/**/*
 
 # ignore yarn.lock
-yarn.lock
 
 #vercel info
 .vercel
@@ -49,3 +48,4 @@ yarn.lock
 
 #package-lock
 package-lock.json
+yarn.lock
