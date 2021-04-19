@@ -1,10 +1,9 @@
-
-  ![Screenshot 2021-04-11 at 7 56 16 PM](https://user-images.githubusercontent.com/21289530/114308023-fdc7cd80-9aff-11eb-9ed3-a991cc0876df.png)
-
+![Screenshot 2021-04-11 at 7 56 16 PM](https://user-images.githubusercontent.com/21289530/114308023-fdc7cd80-9aff-11eb-9ed3-a991cc0876df.png)
 
 # Next.js Notion Starter Kit
 
 > The perfect starter kit for building websites with Next.js and Notion.
+
 ## Intro
 
 This repo is what I use to power my personal blog / portfolio site [Amyth.dev](https://amyth.dev).
